@@ -11,14 +11,14 @@ st.set_page_config(page_title="Spending Diary", layout="wide")
 # Config
 # -----------------------------
 CATEGORIES = [
+    "rent",
     "groceries",
     "coffee",
     "transport",
-    "pilates",
+    "subscriptions",
     "miscellaneous",
     "stocks",
     "savings",
-    "rent", 
 ]
 
 DATA_PATH = Path("spending_diary.csv")
