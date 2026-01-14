@@ -18,6 +18,7 @@ CATEGORIES = [
     "miscellaneous",
     "stocks",
     "savings",
+    "rent", 
 ]
 
 DATA_PATH = Path("spending_diary.csv")
